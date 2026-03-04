@@ -1,19 +1,99 @@
 ---
-layout: page
+layout: default
 title: About Me
-subtitle: 
 ---
-my name is Christian Wunderlich, I´m working in the tech industry for more than a decade now with my main focus on Azure Cloud and Azure Infrastructure. Since 2018 I´m working for **Microsoft** as a Senior Azure Consultant.
 
-### work experience
+<div class="card shadow-sm mb-4">
+	<div class="card-body">
+		<h2 class="h3 mb-2">Christian Wunderlich</h2>
+		<p class="lead mb-3">Senior Azure Consultant at Microsoft with a strong focus on cloud platforms, scalable infrastructure, and AI-powered solutions.</p>
+		<p class="mb-0">I have worked in the tech industry for more than a decade. Since 2018, I have been at <strong>Microsoft</strong>, helping customers design and implement reliable, modern Azure architectures.</p>
+	</div>
+</div>
 
-| Employer | Timespan | Project Details |
-| -------- | -------- | --------------- |
-| Microsoft<br>**Senior Azure Consultant** | 08.2021 - now |        **Contractual Intelligence:**<br>**- Industry:** <br>Automotive - automobile manufacturer<br> **- Technology** :<br> Azure OpenAI, Azure AI Search, Azure Function, Azure ML, Azure OpenAI Studion, PromtFlow, Python<br> **- Project Description:** <br>Contributed to the Contractual Intelligence project, empowering clients through artificial intelligence to enhance the efficiency of analyzing and comparing contract data. Conducted data analysis to identify patterns in various contracts. Implemented and defined a custom Search Index, Indexer, Skillsets and Datasources as the foundation for a hybrid search concept. Developed a Retrieval Augmented Generation (RAG) architecture using Azure AI Search and Azure OpenAI. Automated pre-processing tasks for each document, retrieving document content and enriching it with various metadata using the Document Intelligence Service. Automated cracking and chunking of documents for automatic storage in the associated search index. Built a Prompt Flow with multiple variations to respond to different user prompts.<br><br>                                                                      **Unified Customer Profile:**<br> **- Industry:** <br>Automotive - automobile manufacturer<br> **- Technology** :<br> Azure Functions, Azure SQL, Azure Kubernetes Services, Azure Virtual Machines Scale Sets, Azure Firewall, Compute Gallery, Container Registry, Azure Bicep, Azure Verified Modules (former [CARML](https://github.com/Azure/ResourceModules)), Azure Landing Zones, Policy, ASP.NET<br> **- Project Description:** <br>Contributed on the development of a Unified Customer Profile, a company-wide standard for core customer data. Involved in building C# applications for various use cases, including Azure Functions, ASP.NET APIs, Entity Framework, Unit Testing, End-to-End Tests, and Performance Analysis. Created a multi-stage environment for hosting all related services to ensure a seamless deployment process without interrupting productive workloads. Played a key role in building the overall landing zone Infrastructure as Code repository and its inclusion in the multi-stage environment deployment.<br><br>                             **Fruit and Vegetable Recognition:**<br> **- Industry:** <br>Retail<br> **- Technology** :<br> Azure Landing Zine, Azure Kubernetes Service, Helm Chart Development, private Networking, Azure Container Registry, Azure Verified Modules (former [CARML](https://github.com/Azure/ResourceModules)), Azure Landing Zones, Azure Edge Devices<br> **- Project Description:** <br>Led the global rollout workstream as the dev lead for an innovation project, creating a product for the automatic detection of fruits and vegetables on self-checkout terminals in shops. Built a solution incorporating the F&V container for global rollout on edge devices. Defined and implemented a global CI/CD Pipeline as the foundation for the rollout product. Created a Helm chart with sub-containers for seamless rollouts, all hosted and versioned automatically in an Azure Container Registry, ensuring complete independent version rollouts for each shop to prevent unintended version upgrades. <br><br>                                                                      **Data Platform:**<br> **- Industry:** <br>Automotive - automobile manufacturer<br> **- Technology** :<br> Azure Functions, Azure Databases, Azure Data Lake, Azure EventHub, Pulumi, Azure Bicep, Powershell, Python, Pester, Azure DevOps<br> **- Project Description:** <br>Developed and extended a data platform serving as a blueprint to host project-based data products. Utilized diverse technologies, including Infrastructure as Code, Azure DevOps Pipelines, Powershell, and Python. Main focus on extending the Infrastructure as Code project, developing new APIs in Python to provide users with a common interface for requesting and deploying various services, aligning workstreams strategically within the overall program, and serving as the general point of contact for all services hosted on Azure. <br><br> |
-Microsoft<br> **Senior Customer Enigneer** | 09.2020 - 08.2021 | I fostered and enhanced customer relationships by integrating Azure technologies. Additionally, I executed modern device management solutions for clients, leveraging tools like Intune and other mobile device management infrastructure. Serving as a dedicated Designated Support Engineer (DSE), I offered ongoing customer support, evolution, and consultation, ensuring a continuous point of contact for clients. Moreover, I spearheaded a technology community for Intune and Microsoft Endpoint Management (MEM) across the DACH region, facilitating collaborative learning and knowledge sharing. |
-Microsoft<br> **Premier Field Engineer** | 04.2018 - 09.2020 | My primary professional emphasis has been on cultivating expertise in ConfigMgr (Configuration Manager). In my role as a Designated Support Engineer (DSE), I have been dedicated to providing customers with comprehensive support, continuous evolution, and valuable consultation. Additionally, I have garnered numerous accreditations, notably including CMRES, PFECH, OA-IMDM, and others. Notably, I have achieved successful project deliveries both within domestic settings and on the international stage. |
-GfK Group-IT<br> **IT Consultant** | 07.2012 - 04.2018 | From June 2014 to April 2018, I served as an IT Consultant in the End User Services division of GfK Group-IT. In this role, I played a key role in planning and implementing the IT strategy for End User Services, acting as the Single Point of Contact between the business and GfK Group IT. I was involved in the technical design of the Next Generation Workplace (NgW) architecture, with a strong emphasis on automating the global NgW RollOut, incorporating elements such as Zero Touch Installation, MDT 2013 custom scripting, Powershell integration, Custom Bootimages, and Reporting. Additionally, I took on the technical responsibility for the global SCCM and Client Infrastructure, overseeing the deployment of SCCM 1703 with future integration plans for MS Azure and MS Intune. This covered numerous locations and distribution points in over 100 countries, managing approximately 17,000 clients operating on Windows 1709 with a focus on Patch Management. My responsibilities extended to calculating service prices, managing capacity and availability, drafting Service Level Agreements, and engaging in international project management. Earlier, from April 2014 to June 2014, I worked as a Junior IT Specialist at GfK North America, contributing to the Exchange Program and providing support for the introduction of the SPSS RollOut in North America. From July 2012 to April 2014, I held the position of IT Assistant at GfK Service Desk Germany, where I enhanced the efficiency of the automated local Client RollOut and managed the accounting and operations of the Asset Management System. I also played a supportive role in the implementation of an Asset Management System during this period. |
+<div class="row mb-4">
+	<div class="col-md-4 mb-3 mb-md-0">
+		<div class="card h-100">
+			<div class="card-body">
+				<h3 class="h5 mb-2">Focus Areas</h3>
+				<ul class="mb-0 pl-3">
+					<li>Azure Cloud Architecture</li>
+					<li>Platform Engineering</li>
+					<li>AI &amp; Data Solutions</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div class="col-md-4 mb-3 mb-md-0">
+		<div class="card h-100">
+			<div class="card-body">
+				<h3 class="h5 mb-2">Industries</h3>
+				<ul class="mb-0 pl-3">
+					<li>Automotive</li>
+					<li>Retail</li>
+					<li>Enterprise IT</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div class="col-md-4">
+		<div class="card h-100">
+			<div class="card-body">
+				<h3 class="h5 mb-2">Core Stack</h3>
+				<ul class="mb-0 pl-3">
+					<li>Azure (PaaS, IaaS, AKS)</li>
+					<li>Python, C#, Bicep</li>
+					<li>CI/CD &amp; DevOps</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
 
-### Badges
+## Experience
 
-![Badges](/assets/img/aboutme/badges2.png){: .mx-auto.d-block :}
+<div class="card mb-3">
+	<div class="card-body">
+		<h3 class="h5 mb-1">Microsoft · Senior Azure Consultant</h3>
+		<p class="text-muted mb-3">08.2021 – Present</p>
+		<p class="mb-2">Selected project highlights:</p>
+		<ul class="mb-0 pl-3">
+			<li><strong>Contractual Intelligence:</strong> Built a RAG architecture with Azure AI Search and Azure OpenAI, including document cracking/chunking and metadata enrichment with Document Intelligence.</li>
+			<li><strong>Unified Customer Profile:</strong> Contributed to cloud-native services (Azure Functions, ASP.NET APIs, SQL) and multi-stage landing zone deployments.</li>
+			<li><strong>Fruit &amp; Vegetable Recognition:</strong> Led rollout engineering for AKS edge deployments, Helm packaging, and global CI/CD foundations.</li>
+			<li><strong>Data Platform:</strong> Extended platform APIs and Infrastructure as Code across Azure services using Python, Bicep, and DevOps pipelines.</li>
+		</ul>
+	</div>
+</div>
+
+<div class="card mb-3">
+	<div class="card-body">
+		<h3 class="h5 mb-1">Microsoft · Senior Customer Engineer</h3>
+		<p class="text-muted mb-0">09.2020 – 08.2021</p>
+		<p class="mb-0">Drove Azure adoption, delivered modern device management solutions, and built a DACH-wide community for Intune and Microsoft Endpoint Management.</p>
+	</div>
+</div>
+
+<div class="card mb-3">
+	<div class="card-body">
+		<h3 class="h5 mb-1">Microsoft · Premier Field Engineer</h3>
+		<p class="text-muted mb-0">04.2018 – 09.2020</p>
+		<p class="mb-0">Specialized in Configuration Manager, delivered consulting and support as Designated Support Engineer, and completed multiple technical accreditations.</p>
+	</div>
+</div>
+
+<div class="card mb-4">
+	<div class="card-body">
+		<h3 class="h5 mb-1">GfK Group IT · IT Consultant</h3>
+		<p class="text-muted mb-0">07.2012 – 04.2018</p>
+		<p class="mb-0">Planned and implemented end-user service strategy, helped design next-generation workplace architecture, and supported large-scale global client infrastructure rollout.</p>
+	</div>
+</div>
+
+## Badges
+
+<div class="card">
+	<div class="card-body text-center">
+		<img src="/assets/img/aboutme/badges2.png" alt="Professional badges" class="img-fluid">
+	</div>
+</div>
