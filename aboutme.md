@@ -20,6 +20,11 @@ title: About Me
 					<li>Azure Cloud Architecture</li>
 					<li>Platform Engineering</li>
 					<li>AI &amp; Data Solutions</li>
+					<li>Agent AI</li>
+					<li>Agent Frameworks</li>
+					<li>NLP</li>
+					<li>Small Language Models</li>
+					<li>Small Visual Models</li>
 				</ul>
 			</div>
 		</div>
@@ -41,7 +46,8 @@ title: About Me
 			<div class="card-body">
 				<h3 class="h5 mb-2">Core Stack</h3>
 				<ul class="mb-0 pl-3">
-					<li>Azure (PaaS, IaaS, AKS)</li>
+					<li>Azure (PaaS, IaaS, AKS, Azure OpenAI)</li>
+					<li>vLLM, Guidance</li>
 					<li>Python, C#, Bicep</li>
 					<li>CI/CD &amp; DevOps</li>
 				</ul>
@@ -73,6 +79,15 @@ title: About Me
 				<p class="mb-1"><strong>Industry:</strong> Automotive (automobile manufacturer)</p>
 				<p class="mb-1"><strong>Technology:</strong> Azure Functions, Azure SQL, AKS, VM Scale Sets, Azure Firewall, Compute Gallery, Container Registry, Bicep, Azure Verified Modules, Azure Landing Zones, ASP.NET</p>
 				<p class="mb-0"><strong>Project description:</strong> Contributed to the development of a company-wide standard for core customer data. Built C# applications for multiple scenarios, including Azure Functions, ASP.NET APIs, Entity Framework integrations, unit testing, end-to-end testing, and performance analysis. Helped create a multi-stage environment to host all related services and enable seamless deployment without disrupting production workloads. Played a key role in developing the landing zone Infrastructure as Code repository and integrating it into multi-stage environment deployments.</p>
+			</div>
+		</div>
+
+		<div class="card mb-3">
+			<div class="card-body">
+				<h4 class="h6 mb-2"><u>Log Message Interpretation</u></h4>
+				<p class="text-muted mb-2">01.2026 – Present</p>
+				<p class="mb-1"><strong>Technology:</strong> Azure OpenAI, embeddings, vLLM, Guidance, GroupChat orchestration, Streamlit, Qdrant, Python</p>
+				<p class="mb-0"><strong>Project description:</strong> Built a pipeline that converts raw industrial log templates into Canonical Event Model (CEM) schemas for automated structured extraction. Implemented a two-phase architecture with entity extraction and canonical registry creation, followed by multi-agent schema generation and validation with fact extraction/verification. Added reviewed-blueprint retrieval with hybrid similarity scoring to improve schema quality, and delivered a Streamlit interface for manual review, schema edits, and quality metrics.</p>
 			</div>
 		</div>
 
