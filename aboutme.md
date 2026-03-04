@@ -21,7 +21,7 @@ title: About Me
 					<li>Platform Engineering</li>
 					<li>AI &amp; Data Solutions</li>
 					<li>Agent AI</li>
-					<li>Agent Frameworks</li>
+					<li>Microsoft Agent Framework</li>
 					<li>NLP</li>
 					<li>Small Language Models</li>
 					<li>Small Visual Models</li>
