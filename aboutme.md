@@ -60,7 +60,7 @@ title: About Me
 
 		<div class="card mb-3">
 			<div class="card-body">
-				<h4 class="h6 mb-2">Contractual Intelligence</h4>
+				<h4 class="h6 mb-2"><u>Contractual Intelligence</u></h4>
 				<p class="mb-1"><strong>Industry:</strong> Automotive (automobile manufacturer)</p>
 				<p class="mb-1"><strong>Technology:</strong> Azure OpenAI, Azure AI Search, Azure Functions, Azure ML, Prompt Flow, Python, Document Intelligence</p>
 				<p class="mb-0"><strong>Project description:</strong> Contributed to a contractual intelligence solution that improved the efficiency of analyzing and comparing contract data with AI. Conducted data analysis to identify patterns across different contract types. Implemented and defined custom search indexes, indexers, skillsets, and data sources as the foundation for a hybrid search concept. Developed a Retrieval Augmented Generation (RAG) architecture with Azure AI Search and Azure OpenAI. Automated pre-processing tasks for each document, including content extraction and metadata enrichment using Document Intelligence. Built automated document cracking and chunking processes for storage in the related search index and implemented multiple Prompt Flow variations to handle different user prompt patterns.</p>
@@ -69,7 +69,7 @@ title: About Me
 
 		<div class="card mb-3">
 			<div class="card-body">
-				<h4 class="h6 mb-2">Unified Customer Profile</h4>
+				<h4 class="h6 mb-2"><u>Unified Customer Profile</u></h4>
 				<p class="mb-1"><strong>Industry:</strong> Automotive (automobile manufacturer)</p>
 				<p class="mb-1"><strong>Technology:</strong> Azure Functions, Azure SQL, AKS, VM Scale Sets, Azure Firewall, Compute Gallery, Container Registry, Bicep, Azure Verified Modules, Azure Landing Zones, ASP.NET</p>
 				<p class="mb-0"><strong>Project description:</strong> Contributed to the development of a company-wide standard for core customer data. Built C# applications for multiple scenarios, including Azure Functions, ASP.NET APIs, Entity Framework integrations, unit testing, end-to-end testing, and performance analysis. Helped create a multi-stage environment to host all related services and enable seamless deployment without disrupting production workloads. Played a key role in developing the landing zone Infrastructure as Code repository and integrating it into multi-stage environment deployments.</p>
@@ -78,7 +78,7 @@ title: About Me
 
 		<div class="card mb-3">
 			<div class="card-body">
-				<h4 class="h6 mb-2">Fruit and Vegetable Recognition</h4>
+				<h4 class="h6 mb-2"><u>Fruit and Vegetable Recognition</u></h4>
 				<p class="mb-1"><strong>Industry:</strong> Retail</p>
 				<p class="mb-1"><strong>Technology:</strong> Azure Landing Zones, AKS, Helm, Private Networking, Azure Container Registry, Azure Verified Modules, Azure Edge Devices</p>
 				<p class="mb-0"><strong>Project description:</strong> Led the global rollout workstream as the development lead for an innovation project focused on automatic fruit and vegetable recognition at self-checkout terminals. Built a rollout-ready solution for edge devices and established the global CI/CD pipeline as the core foundation for product rollout. Developed Helm charts with sub-containers, hosted and versioned in Azure Container Registry, enabling independent version rollout per shop and preventing unplanned upgrades.</p>
@@ -87,7 +87,7 @@ title: About Me
 
 		<div class="card">
 			<div class="card-body">
-				<h4 class="h6 mb-2">Data Platform</h4>
+				<h4 class="h6 mb-2"><u>Data Platform</u></h4>
 				<p class="mb-1"><strong>Industry:</strong> Automotive (automobile manufacturer)</p>
 				<p class="mb-1"><strong>Technology:</strong> Azure Functions, Azure Databases, Azure Data Lake, Azure Event Hubs, Pulumi, Bicep, PowerShell, Python, Pester, Azure DevOps</p>
 				<p class="mb-0"><strong>Project description:</strong> Developed and extended a data platform used as a blueprint for hosting project-based data products. Worked across Infrastructure as Code, Azure DevOps pipelines, PowerShell, and Python. Main focus areas included extending the IaC codebase, building Python APIs that provide a common interface for requesting and deploying services, aligning workstreams across the broader program, and acting as a central point of contact for Azure-hosted services.</p>
