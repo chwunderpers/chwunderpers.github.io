@@ -14,7 +14,7 @@ author: Christian Wunderlich
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "https://chwunder.github.io/"
+  Home: "/"
   #Projects: "projects"
   About Me: "aboutme"
 
@@ -63,7 +63,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+#rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
