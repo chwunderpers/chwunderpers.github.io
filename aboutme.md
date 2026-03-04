@@ -56,7 +56,7 @@ title: About Me
 	<div class="card-body">
 		<h3 class="h5 mb-1">Microsoft · Senior Azure Consultant</h3>
 		<p class="text-muted mb-3">08.2021 – Present</p>
-		<p class="mb-3">Project highlights in detail:</p>
+		<p class="mb-3">Detailed project highlights:</p>
 
 		<div class="card mb-3">
 			<div class="card-body">
@@ -72,7 +72,7 @@ title: About Me
 				<h4 class="h6 mb-2">Unified Customer Profile</h4>
 				<p class="mb-1"><strong>Industry:</strong> Automotive (automobile manufacturer)</p>
 				<p class="mb-1"><strong>Technology:</strong> Azure Functions, Azure SQL, AKS, VM Scale Sets, Azure Firewall, Compute Gallery, Container Registry, Bicep, Azure Verified Modules, Azure Landing Zones, ASP.NET</p>
-				<p class="mb-0"><strong>Project description:</strong> Contributed to development of a company-wide standard for core customer data. Built C# applications for multiple scenarios, including Azure Functions, ASP.NET APIs, Entity Framework integrations, unit testing, end-to-end testing, and performance analysis. Helped create a multi-stage environment to host all related services and enable seamless deployment without disrupting production workloads. Played a key role in developing the landing zone Infrastructure as Code repository and integrating it into multi-stage environment deployments.</p>
+				<p class="mb-0"><strong>Project description:</strong> Contributed to the development of a company-wide standard for core customer data. Built C# applications for multiple scenarios, including Azure Functions, ASP.NET APIs, Entity Framework integrations, unit testing, end-to-end testing, and performance analysis. Helped create a multi-stage environment to host all related services and enable seamless deployment without disrupting production workloads. Played a key role in developing the landing zone Infrastructure as Code repository and integrating it into multi-stage environment deployments.</p>
 			</div>
 		</div>
 
@@ -81,7 +81,7 @@ title: About Me
 				<h4 class="h6 mb-2">Fruit and Vegetable Recognition</h4>
 				<p class="mb-1"><strong>Industry:</strong> Retail</p>
 				<p class="mb-1"><strong>Technology:</strong> Azure Landing Zones, AKS, Helm, Private Networking, Azure Container Registry, Azure Verified Modules, Azure Edge Devices</p>
-				<p class="mb-0"><strong>Project description:</strong> Led the global rollout workstream as development lead for an innovation project focused on automatic fruit and vegetable recognition at self-checkout terminals. Built a rollout-ready solution for edge devices and established the global CI/CD pipeline as the core foundation for product rollout. Developed Helm charts with sub-containers, hosted and versioned in Azure Container Registry, enabling independent version rollout per shop and preventing unplanned upgrades.</p>
+				<p class="mb-0"><strong>Project description:</strong> Led the global rollout workstream as the development lead for an innovation project focused on automatic fruit and vegetable recognition at self-checkout terminals. Built a rollout-ready solution for edge devices and established the global CI/CD pipeline as the core foundation for product rollout. Developed Helm charts with sub-containers, hosted and versioned in Azure Container Registry, enabling independent version rollout per shop and preventing unplanned upgrades.</p>
 			</div>
 		</div>
 
@@ -135,7 +135,7 @@ title: About Me
 		<p class="mb-1"><strong>Focus:</strong> End-user service strategy, global workplace rollout automation, and client infrastructure operations.</p>
 		<p class="mb-2"><strong>Responsibilities:</strong></p>
 		<ul class="mb-2 pl-3">
-			<li>Planned and implemented IT strategy for End User Services, acting as a key interface between business units and Group IT.</li>
+			<li>Planned and implemented IT strategy for End-User Services, acting as a key interface between business units and Group IT.</li>
 			<li>Contributed to technical design of a Next Generation Workplace architecture with automation for global rollout.</li>
 			<li>Implemented automation capabilities using Zero Touch Installation, MDT 2013 custom scripting, PowerShell integration, custom boot images, and reporting.</li>
 			<li>Held technical responsibility for global SCCM and client infrastructure across more than 100 countries and around 17,000 clients.</li>
