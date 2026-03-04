@@ -6,8 +6,8 @@ title: About Me
 <div class="card shadow-sm mb-4">
 	<div class="card-body">
 		<h2 class="h3 mb-2">Christian Wunderlich</h2>
-		<p class="lead mb-3">Senior Azure Consultant at Microsoft with a strong focus on cloud platforms, scalable infrastructure, and AI-powered solutions.</p>
-		<p class="mb-0">I have worked in the tech industry for more than a decade. Since 2018, I have been at <strong>Microsoft</strong>, helping customers design and implement reliable, modern Azure architectures.</p>
+		<p class="lead mb-3">I design and deliver cloud and AI systems that turn complex requirements into reliable, production-ready platforms.</p>
+		<p class="mb-0">I’m a Senior Azure Consultant at <strong>Microsoft</strong> with 10+ years in tech, focused on Azure architecture, platform engineering, and intelligent systems. My current work centers on applied AI, including small language model fine-tuning, running models at the edge, and designing multi-agent systems for real-world enterprise scenarios. I enjoy combining technical depth with practical execution to create scalable solutions that deliver measurable business impact.</p>
 	</div>
 </div>
 
