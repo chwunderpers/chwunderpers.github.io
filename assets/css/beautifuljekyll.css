@@ -21,6 +21,22 @@ body {
   background-attachment: fixed;
   {% endif %}
 }
+
+/* Keep Bootstrap cards readable on dark themes */
+.card {
+  background-color: {{ site.navbar-col | default: "#EAEAEA" }};
+  border: 1px solid {{ site.navbar-border-col | default: "#DDDDDD" }};
+  color: {{ site.text-col | default: "#404040" }};
+}
+
+.card .text-muted {
+  color: {{ site.footer-text-col | default: "#777777" }} !important;
+}
+
+.card hr {
+  border-color: {{ site.navbar-border-col | default: "#DDDDDD" }};
+}
+
 p {
   line-height: 1.5;
   margin: 1.875rem 0;
