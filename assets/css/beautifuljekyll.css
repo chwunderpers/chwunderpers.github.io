@@ -22,21 +22,6 @@ body {
   {% endif %}
 }
 
-/* Keep Bootstrap cards readable on dark themes */
-.card {
-  background-color: {{ site.navbar-col | default: "#EAEAEA" }};
-  border: 1px solid {{ site.navbar-border-col | default: "#DDDDDD" }};
-  color: {{ site.text-col | default: "#404040" }};
-}
-
-.card .text-muted {
-  color: {{ site.footer-text-col | default: "#777777" }} !important;
-}
-
-.card hr {
-  border-color: {{ site.navbar-border-col | default: "#DDDDDD" }};
-}
-
 p {
   line-height: 1.5;
   margin: 1.875rem 0;
@@ -803,8 +788,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   font-weight: 800;
   letter-spacing: 1px;
   padding: 0.625rem 0.3125rem;
-  background-color: {{ site.navbar-col | default: "#EAEAEA" }};
-  border: 1px solid {{ site.navbar-border-col | default: "#DDDDDD" }};
+  background-color: #FFF;
   border-radius: 0;
   color: {{ site.text-col | default: "#404040" }};
 }
@@ -827,12 +811,12 @@ table {
 }
 table tr {
   border-top: 1px solid #cccccc;
-  background-color: {{ site.navbar-col | default: "#EAEAEA" }};
+  background-color: #ffffff;
   margin: 0;
   padding: 0;
 }
 table tr:nth-child(2n) {
-  background-color: {{ site.page-col | default: "#FFFFFF" }};
+  background-color: #f8f8f8;
 }
 table tr th {
   font-weight: bold;
